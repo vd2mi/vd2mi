@@ -49,7 +49,7 @@ A real-time market dashboard with:
 - clean, responsive UI  
 
 **Live:** https://fi-si.vercel.app/  
-**Repo:** https://github.com/vd2mi/Fi-Si  
+**Repo:** https://github.com/vd2mi/FiSi  
 
 ---
 
